@@ -1,5 +1,4 @@
-<<<<<<< Updated upstream
-=======
+
 //patata
 //patatoe
->>>>>>> Stashed changes
+//prueba3
